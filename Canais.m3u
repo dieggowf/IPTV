@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Rede_Globo_Logo_1996.png/revision/latest/scale-to-width-down/200?cb=20161204182314", GLOBO HD*
+http://s.tvmaster.net:80/estenio/1217/1603
+#EXTINF:0 type="stream" channelId="2571", SBT  HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/5UeQAk9.png", Record MG
+https://images-na.ssl-images-amazon.com/images/I/71ux5q--K6L.png
+#EXTINF:0 type="stream" channelId="2562" tvg-logo="http://i.imgur.com/5UeQAk9.png", Record RJ HD
+https://images-na.ssl-images-amazon.com/images/I/71ux5q--K6L.png
+#EXTINF:0 type="stream" channelId="2456" tvg-logo="http://i.imgur.com/ac5p192.png", Record News
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce84063d4a542fe9a6c%3Bbase64np%3BASabA7WuZYbrTSg%21/amlst%3AASZjGqjlYIf0DaT2/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/9bw0Q4n.png", Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="stream" channelId="-1", REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
+#EXTINF:0 type="stream" channelId="984" tvg-logo="/iptv-list.jpg", VIVA SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141724
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/redetv.png", Rede Tv
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1975392926.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/redetv.png", Rede TV RJ
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w2070232887.m3u8
+#EXTINF:0 type="stream" channelId="2459", TV Diário
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/hbpsGWw.png", TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/J0vLlTS.png", TV Futura RJ
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/kai6F2R.png", TV Cultura MG
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="stream" channelId="-1", Record SP
+https://images-na.ssl-images-amazon.com/images/I/71ux5q--K6L.png
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/5UeQAk9.png", Record SP HD
+https://images-na.ssl-images-amazon.com/images/I/71ux5q--K6L.png
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/k4haEx6.png", Rede TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR:Band News HD
+http://fonte.iptvmaishd.com:25461/0515/0515/141968
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Band Sports
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/529
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Combate
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/508
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: ESPN 2
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/35218
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Fox Sports
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/440
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Premiere 1
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/328
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Premiere 3
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/325
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Premiere 4
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/322
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Premiere 7
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/317
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Premiere 9
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/315
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Premiere Clubes
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/314
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: SporTV
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/285
+#EXTINF:0 type="stream" channelId="3242" tvg-logo="/iptv-list.jpg", Sport TV HD
+http://thebestbr.tk:25461/live/ramonparceria/n0BuFQXd8q/246.ts
+#EXTINF:0 type="stream" channelId="2762" tvg-logo="/iptv-list.jpg", SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 type="stream" channelId="2601" tvg-logo="/iptv-list.jpg", SPORTV 3
+https://dpmia01.gcdn.co/112/myStream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2595" tvg-logo="/iptv-list.jpg", COMBATE
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", FOX ESPORTES 2 SD
+http://apk27.futeboltvgratis.com:8081/live/4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2590", MULTI SHOW HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141825
+#EXTINF:0 type="stream" channelId="67" tvg-logo="/iptv-list.jpg", TLC SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141743
+#EXTINF:0 type="stream" channelId="2722" tvg-logo="/iptv-list.jpg", GNT HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141861
+#EXTINF:0 type="stream" channelId="2580" tvg-logo="/iptv-list.jpg", GLOBO SAT SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141873
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BBB 2019
+http://apk27.futeboltvgratis.com:8081/live/6/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BBB 2019
+http://apk27.futeboltvgratis.com:8081/live/6/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1330" tvg-logo="/iptv-list.jpg", HBO SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141857
+#EXTINF:0 type="stream" channelId="2408" tvg-logo="/iptv-list.jpg", HBO HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141856
+#EXTINF:0 type="stream" channelId="2409" tvg-logo="/iptv-list.jpg", HBO 2 HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141854
+#EXTINF:0 type="stream" channelId="2584" tvg-logo="/iptv-list.jpg", HBO FAMILY SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141853
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: HBO Plus
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/379
+#EXTINF:0 type="stream" channelId="2726" tvg-logo="/iptv-list.jpg", MAX HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141838
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", MAX PRIME HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141836
+#EXTINF:0 type="stream" channelId="2587" tvg-logo="/iptv-list.jpg", MAX PRIME SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141837
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Max Up
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/358
+#EXTINF:0 type="stream" channelId="205" tvg-logo="/iptv-list.jpg", FOX LIFE HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141905
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", FOX MOVIE SD
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: FX
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/459
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Fox
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/451
+#EXTINF:0 type="stream" channelId="1192" tvg-logo="/iptv-list.jpg", SYFY HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141766
+#EXTINF:0 type="stream" channelId="73" tvg-logo="/iptv-list.jpg", SYFY SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141767
+#EXTINF:0 type="stream" channelId="1208" tvg-logo="/iptv-list.jpg", A&E SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141993
+#EXTINF:0 type="stream" channelId="2717" tvg-logo="/iptv-list.jpg", AMC HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141987
+#EXTINF:0 type="stream" channelId="2501" tvg-logo="/iptv-list.jpg", AMC SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141988
+#EXTINF:0 type="stream" channelId="1573" tvg-logo="/iptv-list.jpg", AXN SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141984
+#EXTINF:0 type="stream" channelId="2888" tvg-logo="/iptv-list.jpg", CINEMAX HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141958
+#EXTINF:0 type="stream" channelId="1326" tvg-logo="/iptv-list.jpg", CINEMAX SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141959
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: Paramount
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/332
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: TBS
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/272
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BR: TCM
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/270
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", CINE 24H
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", DISCOVERY H&H HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141942
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", DISCOVERY H&H SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141943
+#EXTINF:0 type="stream" channelId="341" tvg-logo="/iptv-list.jpg", DISCOVERY CHANNEL HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141947
+#EXTINF:0 type="stream" channelId="57" tvg-logo="/iptv-list.jpg", DISCOVERY CHANNEL SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141948
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", DISCOVERY CIVILIZATION HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141944
+#EXTINF:0 type="stream" channelId="2841" tvg-logo="/iptv-list.jpg", DISCOVERY CIVILIZATION SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141945
+#EXTINF:0 type="stream" channelId="1508" tvg-logo="/iptv-list.jpg", DISCOVERY SCIENCE HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141939
+#EXTINF:0 type="stream" channelId="58" tvg-logo="/iptv-list.jpg", DISCOVERY SCIENCE SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141938
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", DISCOVERY THEATHER HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141937
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", TV GIDEÕES
+http://streaming01.zas.media:1935/gideoes/programacao_360p/chunklist_w489622183.m3u8?EDSONSOUSALIST
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", TV GIDEÕES HD
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8?EDSONSOUSALIST
+#EXTINF:0 type="stream" channelId="2446" tvg-logo="/iptv-list.jpg", REDE GOSPEL SD
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", GOSPEL MOVIE
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2603", TELECINE ACTION SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141763
+#EXTINF:0 type="stream" channelId="2612" tvg-logo="/iptv-list.jpg", TELECINE TOUCH HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141747
+#EXTINF:0 type="stream" channelId="2611" tvg-logo="/iptv-list.jpg", TELECINE TOUCH SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141748
+#EXTINF:0 type="stream" channelId="2608" tvg-logo="/iptv-list.jpg", Telecine Pipoca
+http://tv.mundial.digital:25461/paulosilva/1yvDsY9lDB/253
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", TELECINE CULT HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141759
+#EXTINF:0 type="stream" channelId="2605" tvg-logo="/iptv-list.jpg", TELECINE CULT SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141759
+#EXTINF:0 type="stream" channelId="2285" tvg-logo="/iptv-list.jpg", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?CANALANDRONALTAS
+#EXTINF:0 type="stream" channelId="1973" tvg-logo="/iptv-list.jpg", MTV
+http://rtmp.one.by:1200
+#EXTINF:0 type="stream" channelId="19" tvg-logo="/iptv-list.jpg", DISNEY CHANNEL
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b832512.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", DISNEY JR
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b1089536.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", DISNEY JR HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+#EXTINF:0 type="stream" channelId="1198" tvg-logo="/iptv-list.jpg", DISNEY XD
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
+#EXTINF:0 type="stream" channelId="2258" tvg-logo="/iptv-list.jpg", DISNEY XD HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b2690048.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", DESENHOS 24HS SD+
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=1426280488
+#EXTINF:0 type="stream" channelId="322" tvg-logo="/iptv-list.jpg", NICK JR SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141820
+#EXTINF:0 type="stream" channelId="2710" tvg-logo="/iptv-list.jpg", NICK JR HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141819
+#EXTINF:0 type="stream" channelId="334" tvg-logo="/iptv-list.jpg", NICKELODEON HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141817
+#EXTINF:0 type="stream" channelId="41" tvg-logo="/iptv-list.jpg", NICKELODEON SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141818
+#EXTINF:0 type="stream" channelId="2639" tvg-logo="/iptv-list.jpg", TOONCAST SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141735
+#EXTINF:0 type="stream" channelId="2719" tvg-logo="/iptv-list.jpg", CARTOON NETWORK HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141956
+#EXTINF:0 type="stream" channelId="2837" tvg-logo="/iptv-list.jpg", DISCOVERY KIDS HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141940
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BOOMBERANG HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141963
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="/iptv-list.jpg", BOOMBERANG SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141964
