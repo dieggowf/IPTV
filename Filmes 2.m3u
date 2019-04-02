@@ -1,0 +1,454 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="/iptv-list.jpg" pltv-name="Pezinho" pltv-description="Lista IPTV" pltv-cover="/iptv-list.jpg" pltv-author="Wilson Wagner dos Santos" pltv-email="WilsonWagnerSantos@gmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HD FHD TvOlink.com",Aquaman 2018
+http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/AQAMN.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="2019",Aquaman
+http://bit.ly/aquamanrgs
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HD FHD TvOlink.com",A Freira 2018
+http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/AFRA.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HD FHD TvOlink.com",Corrida Mortal 4: Além da Anarquia 2018
+http://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer3/ondemand/CRDAMRT4.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="2016",Capitão América 3: Guerra Civil
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CAPTAMRC3.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="2016",Múmia a Ressurreição
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MUMARSRCAO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="2016",Sete Homens e Um Destino
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/SETHMNSEUDSTN.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes teste",Os Smurfs e a Vila Perdida
+http://94.242.55.155/Brpt/Os.Smurfs.e.a.Vila.Perdida.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES LANÇAMENTOS 2017",kong a ilha da caveira - (2017) OP 1 - DUB
+http://zeus.netcine.tv/ondemand/filmes2017/CAVEIRA2017DUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",O RETORNO DA MUMIA - 2001
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/ORTNDAMUMIA.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",O INCRIVEL HULK - 2008
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OINCVLHLK.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ANIMAÇÃO",SCOOBY DOO E A MALDIÇÃO DO 13 FANTASMA
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/SCOOBYDOOEAMALD13HDDUB.mp4?guiadoluiz
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",A MUMIA
+http://webtvcde.com/Servidor/108/am108.mp4?guiadoluiz
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS",Herois
+http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS",Caes de Guerra
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS",Feitico do Tempo
+http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes Infantil",Cegonhas
+https://lh3.googleusercontent.com/TzqDxNtnV8gR82ssn9OVAZ04-7d18Ou8rsKp7Kknkr03-21BI89nWklCjfSwvKexAnaaLYSegg=m18
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",De Repente 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FICCAO CIENTIFICA",Robocop 3
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FICCAO CIENTIFICA",Fantasmas de Marte
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes",O VINGADOR DO FUTURO DUB
+http://media-br-am.crackle.com/1/q/p6/4d4lf_480p_1mbps.mp4?|User-agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%204_3_2%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUERRA",Marcados Pela Guerra
+https://lh3.googleusercontent.com/jEXKpf62Hy4mVRfXksDsCTGuN7RodFc1tsNISPDejGCZpmgvT5OeS9dYWrWNr9vYUssODCjjTHYVOrvz6xGXWP3EVd2Rra0YiS4aOG2sUQQo6cIGIGMB0RIhNoqTvjJge-A6NM56Esg=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?LHMTv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes Dublado",A Pantera Cor de Rosa
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TERROR",A Volta dos Mortos Vivos
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="DESENHOS FILMES INFANTIL",Pica Pau o Filme
+https://onedrive.live.com/download?resid=E6E546B632E028DB!1261&authkey=!AFk8vo4859kEmeI
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes Dublado",O Albergue 2
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes | Comédia",Bolas em Panico
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Crime",Homens Perigosos
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Desejo a Tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS",A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes",Hulk onde os monstros habitam
+http://zeus.lhmtv.gq/animacao/hulk-onde-os-monstros-habitam.mp4?LHMTv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES Pedidos",O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES Pedidos",Tentaculos
+http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="SUSPENSE",Sacrifício (2017)
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",A Janela Secreta
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Garotas Selvagens 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4?LHMTv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Jogue a Mamae do Trem
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Rain Man
+http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes",Scooby-Doo e a Maldicao do 13 Fantasma
+http://zeus.lhmtv.gq/filmes/SCOOBYDOOEAMALD13HDDUB.mp4?LHMTv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DUBLADOS 2",Sedutora e diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",A Lenda De Tarzan
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ALendaDeTarzan.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",Mogli O Menino Lobo
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MogliOMeninoLobo.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",Coracao Valente
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CoracaoValente.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",A MUMIA
+http://webtvcde.com/Servidor/108/am108.mp4?guiadoluiz
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",CARROS 3 (INFANTIL)
+http://webtvcde.com/Servidor/108/crs3087.mp4?guiadoluiz
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentarios 2",Conspiração Bruce Lee 1980
+https://cdn2.oldflix.com.br/hls/movies/conspiracao-bruce-lee/dublado.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES COMEDIA",Baba Fora De Controle
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Babysitting.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES ANIMAÇÃO",Cegonhas - A Historia Que Nao Te Contaram
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CegonhasAHistoriaQueNaoTeContaram.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES GUERRA",Operacao Chromite
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Operacaochromite.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",King Cobra
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/King.Cobra.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES ANIMAÇÃO",Kung Fu Panda 3
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Kung.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES ANIMAÇÃO",Minions
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MINIONS.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES ANIMAÇÃO",Os Boxtrolls
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Boxtrolls.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES COMEDIA",Pixels
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Pixels.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES ANIMAÇÃO",Procurando Dory
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Dory.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILME FICÇÃO",Insurgente
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/DoOutroLadoDaVida-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Guerras De Drons Acao
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/GuerrasDeDronsAcao.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Heranca De Sangue
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HerancaDeSangue-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES NETFLIX",Historia Real De Um Assassino
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HistoriaRealDeUmAssassinAcao.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Homens De Coragem
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ch-HomensDeCoragem-LEGENDADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Inferno
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Inferno.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",Jason Bourne
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/JasonBourne.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",Mad Max: Estrada Da Furia
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MadMax-EstradaDaFuria.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",O Aprendiz De Feiticeiro
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OAprendizDeFeiticeiro-Dublado.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",O Franco - Atirador
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OFranco-Atirador-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Obcecado Pela Mafia
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ObcecadoPelaMafia-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",O Homem Nas Trevas
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OHomemNasTrevas.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",O Lar Das Criancas Peculiares
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OlarDasCriancasPeculiares.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES GUERRA",Relatos De Guerra
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/RelatosDeGuerra.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Sete Homens E Um Destino
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/SeteHomensEUmDestino.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Vingadores 2 Era De Ultron
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Vingadores.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",A Lenda De Tarzan
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ALendaDeTarzan.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",O Besouro Verde
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OBesouroVerde-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES TERROR",O Garoto Sombrio
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OGarotoSombrio-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",As Tartarugas Ninja Fora Das Sombras
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AsTartarugasNinjaForaDasSombras.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Aposta Maxima
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Aposta.Maxima.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",Espelho Espelho Meu
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/EspelhoEspelhoMeu.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",Fantasmas A Solta 3 Sociedade Do Mal
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/FantasmaAsolta3SociedadeDoMal.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",Mogli O Menino Lobo
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MogliOMeninoLobo.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Avatar
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Avatar.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",Os Cacadores
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OsCacadores.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES COMEDIA",Ave -  Cesar!
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Ave.Cesar.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",X-Men: Apocalypse
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/XmenApocalypse.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES TERROR",A Alcateia
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AAlcateeia-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES TERROR",A Bruxa
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ABruxa-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILME SUSPENSE",American Poltergeist
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AmericanPoltergeist-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Resident Evil : O Hospede Maldito
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ResidentEviloHospedeMaldito-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILME SUSPENSE",Quando As Luzes Se Apagam
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/QuandoAsLuzesSeApagam-DUBLADO.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES TERROR",O Quarto Da Morte
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/O.Quarto.Da.Morte.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",O Tratamento
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/O.Tratamento.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",Os Descartados
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Os.Descartados.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES ANIMAÇÃO",A Era Do Gelo O Big Bang
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AEraDoGeloOBigBang.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Capitao America 3 Guerra Civil
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CapitaoAmericaGuerraCivil.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Esquadrao Suicida
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/EsquadraoSuicida.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES COMEDIA",Genios Do Crime
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/GeniosDoCrime.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",Cinderela
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Cinderela.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",O Bom Gigante Amigo
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OBomGiganteAmigo.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILME SUSPENSE",O Sono Da Morte
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OSonoDaMorte.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILME SUSPENSE",Truque De Mestre O Segundo Ato
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/TruqueDeMestreOSegundoAto.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",Terremoto A Falha De San Andreas
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/terremoto-a-falha-de-san-andreas.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Power Rangers O Filme
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/power_rangers_o_filme.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",O Ultimo Cacador De Bruxas
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/o_ultimo_cacador_de_bruxas.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",O Setimo Filho
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/O_Setimo_Filho.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",O Hobbit A Batalha Dos Cinco Exercitos
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/o_hobbit_a_batalha_dos_cinco_exercitos.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",King Kong
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/king_kong.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES COMEDIA",Jem E As Hologramas
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/jem_e_as_hologramas.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",A Invencao De Hugo Cabret
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AInvencaoDeHugoCabret.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",Caminhos Da Floresta
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CaminhosDaFloresta.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",Coracao Valente
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CoracaoValente.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Eragon
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Eragon.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Evereste
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Evereste.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",Exodo Deuses E Reis
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ExodoDeusesEReis.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Independence Day
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/IndependenceDay.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",A Saga Crepusculo Amanhecer Parte 1
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ASagaCrepusculoAmanhecerParte1.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",A Saga Crepusculo Amanhecer Parte 2
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ASagaCrepusculoAmanhecerParte2.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",A Saga Crepusculo Eclipse
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ASagaCrepusculoEclipse.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",A Saga Crepusculo Lua Nova
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ASagaCrepusculoLuaNova.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Divergente
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Divergente.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Lembrancas De Um Amor Eterno
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/LembrancasDeUmAmorEterno.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",Distrito 9
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Distrito9.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Enders Game O Jogo Exterminador
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/EndersGameOJogoExterminador.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AÇÃO",Frankenstein Entre Anjos E Demonios
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/FrankensteinEntreAnjosEDemonios.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Gigantes De Aco
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/GigantesDeAco.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Gravidade
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Gravidade.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Guardioes Da Galaxia
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/GuardioesDaGalaxia.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Homem De Ferro 3
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HomemDeFerro3.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Homem De Ferro 2
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HomemDeFerro2.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Homem Formiga
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HomemFormiga.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Jogos Vorazes A Esperanca Parte 1
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/JogosVorazesAEsperancaParte1.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Jogos Vorazes Em Chamas
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/JogosVorazesEmChamas.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",O Doador De Memorias
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ODoadorDeMemorias.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Watchmen O Filme
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/WatchmenOFilme.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Transcendence A Revolucao
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/TranscendenceARevolucao.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Resident Evil 2 Apocalipse
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ResidentEvil2Apocalipse.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Resident Evil 3 A Extincao
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ResidentEvil3AExtincao.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES FICÇÃO",Resident Evil 5 Retribuicao
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ResidentEvil5Retribuicao.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",50 Ton Mais Escuros
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/50TonMaisEscuros.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES DRAMA",Perdendo O Folego
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/PerdendoOFolego.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES AVENTURA",Sr. Sherlock Holmes
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Sr.SherlockHolmes2016.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES NACIONAL",Vai Que Da Certo 2
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/VaiQueDaCerto2.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES HEROI",Doutor Estranho
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/DotorEstranho.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canal adulto",Porneq
+http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
